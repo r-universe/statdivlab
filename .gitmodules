@@ -5,6 +5,3 @@
 [submodule "corncob"]
 	path = corncob
 	url = https://github.com/statdivlab/corncob
-[submodule "rigr"]
-	path = rigr
-	url = https://github.com/statdivlab/rigr
