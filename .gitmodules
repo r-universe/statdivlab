@@ -5,6 +5,9 @@
 [submodule "corncob"]
 	path = corncob
 	url = https://github.com/statdivlab/corncob
+[submodule "radEmu"]
+	path = radEmu
+	url = https://github.com/statdivlab/rademu
 [submodule "rigr"]
 	path = rigr
 	url = https://github.com/statdivlab/rigr
